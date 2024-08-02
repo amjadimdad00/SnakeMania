@@ -4,4 +4,4 @@ A classic Snake game with a smooth and interactive gameplay experience. Features
 
 # Game Interface
 
-![SnakeMania]()
+![SnakeMania](/SnakeManias.png)
